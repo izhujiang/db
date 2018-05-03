@@ -1,2 +1,2 @@
 # db
-All thing of database management
+All things about database management
