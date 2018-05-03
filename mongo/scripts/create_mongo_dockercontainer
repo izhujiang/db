@@ -1,0 +1,1 @@
+docker run --name mymongo -v /Users/jiangzhu/workspace/db/mongo/data:/data/db -d mongo
